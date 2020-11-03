@@ -61,7 +61,7 @@
 
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="caraousel.html"> <i class="fa fa-shopping-bag" style="font-size:36px;"></i>&nbsp
-            JHOLI </a>
+            JHOL </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
 
             <span class="navbar-toggler-icon"></span>
