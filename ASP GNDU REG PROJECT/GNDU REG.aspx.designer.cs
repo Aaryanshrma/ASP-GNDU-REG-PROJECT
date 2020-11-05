@@ -168,15 +168,6 @@ namespace ASP_GNDU_REG_PROJECT
         protected global::System.Web.UI.WebControls.TextBox TextBox7;
 
         /// <summary>
-        /// RequiredFieldValidator8 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator8;
-
-        /// <summary>
         /// TextBox8 control.
         /// </summary>
         /// <remarks>

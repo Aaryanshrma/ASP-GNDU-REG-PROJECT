@@ -161,8 +161,7 @@
               &nbsp;<asp:TextBox ID="TextBox7" style="border-radius:0px;" class="form-control" placeholder="1234 SANT AVENUE" runat="server"></asp:TextBox>
           </div>
           <div class="form-group">
-            <label for="inputAddress2">ADDRESS 2</label><asp:RequiredFieldValidator ID="RequiredFieldValidator8" runat="server" ControlToValidate="TextBox8" Display="Dynamic" ErrorMessage="MANDATORY TO ENTER" ForeColor="Red">*</asp:RequiredFieldValidator>
-&nbsp;<asp:TextBox ID="TextBox8" class="form-control" style="border-radius:0px;" placeholder="NEAR......." runat="server"></asp:TextBox>
+            <label for="inputAddress2">ADDRESS 2</label>&nbsp;<asp:TextBox ID="TextBox8" class="form-control" style="border-radius:0px;" placeholder="NEAR......." runat="server"></asp:TextBox>
           </div>
           <div class="form-row">
             <div class="form-group col-md-6">
@@ -185,7 +184,7 @@
           </div>
           <br />
         <div style="text-align:center">
-        <asp:Button ID="Button1" class="btn btn-outline-primary btn-lg" style="border-radius:0px;" runat="server" Text="SUBMIT" OnClick="Button1_Click" />
+        <asp:Button ID="Button1" class="btn btn-outline-primary btn-lg" style="border-radius:0px;" runat="server" Text="SUBMIT DATA" OnClick="Button1_Click" />
        </div>
 
 
@@ -198,7 +197,7 @@
 
 
 
-        <asp:ValidationSummary ID="ValidationSummary1" runat="server" DisplayMode="List" HeaderText="ERRORS:" ForeColor="Red" />
+        <asp:ValidationSummary ID="ValidationSummary1" runat="server" DisplayMode="List" HeaderText="ERRORS:" ForeColor="Pink" />
     </form>
 
     </form>
